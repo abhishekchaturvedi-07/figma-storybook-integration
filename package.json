@@ -1,0 +1,28 @@
+{
+  "name": "@codewithac/figma-storybook-integration",
+  "version": "1.0.0",
+  "description": "How to integrate Figma Properties into Storybook - By CodeWithAC",
+  "author": "codewithac",
+  "type": "module",
+  "dependencies": {
+    "@storybook/addon-a11y": "^7.4.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "storybook": "storybook dev -p 6006",
+    "patch": "npm version patch"
+  },
+  "devDependencies": {
+    "@storybook/addon-actions": "^7.4.6",
+    "@storybook/addon-console": "^2.0.0",
+    "@storybook/addon-designs": "^7.0.5",
+    "@storybook/addon-essentials": "^7.0.6",
+    "@storybook/addon-interactions": "^7.0.6",
+    "@storybook/addon-links": "^7.0.6",
+    "@storybook/react-vite": "^7.0.6",
+    "@storybook/blocks": "^7.0.6",
+    "@storybook/react": "^7.0.6",
+    "storybook": "^7.0.6"
+  }
+}
