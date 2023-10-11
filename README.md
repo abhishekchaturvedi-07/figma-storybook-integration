@@ -1,7 +1,7 @@
 # How to integrate the Figma design library to Storybook
 
-1- You need a Figma Frame / Component Link
-2- You need a component where you can set up your required parameters
+1- You need a Figma Frame / Component Link  
+2- You need a component where you can set up your required parameters  
 MAKE SURE ABOUT THE DESIGN TYPE
 
 ```
