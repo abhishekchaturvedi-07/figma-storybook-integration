@@ -1,6 +1,6 @@
 {
   "name": "@codewithac/figma-storybook-integration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "How to integrate Figma Properties into Storybook - By CodeWithAC",
   "author": "codewithac",
   "type": "module",
