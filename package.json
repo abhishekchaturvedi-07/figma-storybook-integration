@@ -31,7 +31,10 @@
     "storybook",
     "integration",
     "figma-storybook",
-    "design"
+    "design",
+    "frontend",
+    "react",
+    "codewithac"
   ],
   "license": "ISC"
 }
