@@ -26,6 +26,12 @@
     "storybook": "^7.0.6"
   },
   "main": "index.js",
-  "keywords": [],
+  "keywords": [
+    "figma",
+    "storybook",
+    "integration",
+    "figma-storybook",
+    "design"
+  ],
   "license": "ISC"
 }
